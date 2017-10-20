@@ -1,0 +1,604 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/hazardm/.android/build-cache/f57d4347eea537567e0ee390d95ed52468bffc26/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.0.1] /Users/hazardm/.android/build-cache/f426c1e763f544843e8d0b8076adc052219c10d4/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/hazardm/.android/build-cache/a0fe133ade08b555aa9f5f8cb8cac923719cbd9b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/hazardm/.android/build-cache/dc2a3e3e836044178729d24a8a81d078e6deecf3/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /Users/hazardm/.android/build-cache/6ebb8488557582788ea15e0157b4c47f029502aa/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /Users/hazardm/.android/build-cache/5c13a76280a89f26a33e8c9ca8322caef68a1c66/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/hazardm/.android/build-cache/f46b38c7e0bcfc166802c93c51f9e6cf470d7a31/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/hazardm/.android/build-cache/8da82a901a546e07427535da7e6eeb55df8b0eb5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /Users/hazardm/.android/build-cache/9a7bdaccf1d0b10e8886639b731261f58898c986/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /Users/hazardm/.android/build-cache/3022b4d861d053636e9624287798cd0d09ef2f31/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/hazardm/.android/build-cache/45c4cd89b4682ce9c1b03e8c111eeec3518f2c35/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/hazardm/.android/build-cache/215ba9504e645ab7c325487c76fd04bca6b072e2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /Users/hazardm/.android/build-cache/603030fa81c6b6150a0bc404f529eb2568ac2aba/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /Users/hazardm/.android/build-cache/7b38ee64cfd846b39ca7a1ecceb9a8173564221a/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/hazardm/.android/build-cache/207d9a1b37ea446cc7fd47e767d43fdbd4d408ff/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /Users/hazardm/.android/build-cache/04858cbde75f51da4426c4fe944ed43d1e9dcc94/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /Users/hazardm/.android/build-cache/72f61eb2c7c1520dccb6afd648f68cbb90dc6053/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /Users/hazardm/.android/build-cache/4784334fd3afc86e724fb92681898726a1d7722a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /Users/hazardm/.android/build-cache/96a98946a1d960cd08db69fd6483490f8190a0d4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /Users/hazardm/.android/build-cache/ae0a246546a6a940c830cbabce621fa11a8e160d/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/hazardm/.android/build-cache/7705c002312b9dc14a6f32a8c31e9da2a80341df/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/hazardm/.android/build-cache/6a9fc5b9b8a27da4d2a133901a346402879030d0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /Users/hazardm/.android/build-cache/9ce403572706b3d7e8a61aaf78f5735c566c8f19/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/hazardm/.android/build-cache/54a5ca3859ffc6533c7075b07a49b79fcd5756bb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /Users/hazardm/.android/build-cache/bbd6204d37292ac66e313c14fbfdcd711c2fb659/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/hazardm/.android/build-cache/fc99f726b06fc40a0c1c3249e19d6c3c8fe3669f/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/hazardm/.android/build-cache/0e2c854d24de8c5b000603bfc037d617e7cb2c27/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /Users/hazardm/.android/build-cache/b762e3a9854bdcc5f6c553cd3433de42300a35e0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /Users/hazardm/.android/build-cache/0cad23a070f3b78d3739e9cc692d5890283262ca/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /Users/hazardm/.android/build-cache/09c9854702e078d4fb678f76992c04c91d53b750/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /Users/hazardm/.android/build-cache/15ba46343d7f29cee53395cf70980541834747ad/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /Users/hazardm/.android/build-cache/f9ce3af45eb6ddf85a8a525a2fea80afe05e03b4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/hazardm/.android/build-cache/16113791ea39bc454cbf964f2ec8747c035b604b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8a42b01a65319d131b7c09c244475bd90b5b61c0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /Users/hazardm/.android/build-cache/e0f9080a5f5843c6753d0433b8526f67aec320f4/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /Users/hazardm/.android/build-cache/adb94eba2cc04babf51fb7b95969a8a16da38f59/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /Users/hazardm/.android/build-cache/00bfc0a5dbd1d6265e60a4070fe526e2d00bc12b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/hazardm/.android/build-cache/e778678de8fa296ef9fc3d61a35bcc1d2054266c/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:design:25.1.0] /Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/hazardm/.android/build-cache/546fba5670b21367a205e389257a73014c9a78e6/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/hazardm/.android/build-cache/02aa0f3c0c865b8b4f1da318ac65af81982fa286/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /Users/hazardm/.android/build-cache/b89eb9a8fb380c910fff0e9a28667f88fc50f7df/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.0] /Users/hazardm/.android/build-cache/396d4b47a5db8dac2be24e0c0005b6e83c967b5e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hazardm/.android/build-cache/6493e286228850367b3ee341c560eb7493b6418d/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/hazardm/.android/build-cache/a21b8acedc8c007686bad16db8941420110eec29/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/hazardm/.android/build-cache/504cf5a2b4d85a6559f23b74b92aae3bd19ca082/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hazardm/.android/build-cache/00587cf09ec5a00d2fabec547f03240a84932a13/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] /Users/hazardm/.android/build-cache/9453dcd0baba0f6e94946fb7e2ec393035b32ef2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/hazardm/.android/build-cache/a4ff8deb682cd43ab0e4528648649d76ee0804f2/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/hazardm/.android/build-cache/34b88e547d4c1b815617473074b95b3a11c94176/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/hazardm/.android/build-cache/b7c55b53a51c39e15c941b210968f48b8101dc54/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/hazardm/.android/build-cache/c38da4c5e4747f9d81697669d515c9420fab3a9b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /Users/hazardm/.android/build-cache/429eb40d887617262bf78e072d68aa3ff521ae8e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.0] /Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/hazardm/.android/build-cache/dc2a3e3e836044178729d24a8a81d078e6deecf3/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/hazardm/.android/build-cache/45c4cd89b4682ce9c1b03e8c111eeec3518f2c35/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/hazardm/.android/build-cache/6a9fc5b9b8a27da4d2a133901a346402879030d0/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/hazardm/.android/build-cache/54a5ca3859ffc6533c7075b07a49b79fcd5756bb/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8a42b01a65319d131b7c09c244475bd90b5b61c0/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/hazardm/.android/build-cache/dc2a3e3e836044178729d24a8a81d078e6deecf3/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/hazardm/.android/build-cache/0e2c854d24de8c5b000603bfc037d617e7cb2c27/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8a42b01a65319d131b7c09c244475bd90b5b61c0/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:14:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/hazardm/.android/build-cache/dc2a3e3e836044178729d24a8a81d078e6deecf3/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8a42b01a65319d131b7c09c244475bd90b5b61c0/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:17:22-63
+application
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:21:5-111:19
+MERGED from [com.google.android.gms:play-services:10.0.1] /Users/hazardm/.android/build-cache/f426c1e763f544843e8d0b8076adc052219c10d4/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/hazardm/.android/build-cache/dc2a3e3e836044178729d24a8a81d078e6deecf3/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /Users/hazardm/.android/build-cache/5c13a76280a89f26a33e8c9ca8322caef68a1c66/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /Users/hazardm/.android/build-cache/f46b38c7e0bcfc166802c93c51f9e6cf470d7a31/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/hazardm/.android/build-cache/8da82a901a546e07427535da7e6eeb55df8b0eb5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /Users/hazardm/.android/build-cache/9a7bdaccf1d0b10e8886639b731261f58898c986/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /Users/hazardm/.android/build-cache/3022b4d861d053636e9624287798cd0d09ef2f31/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /Users/hazardm/.android/build-cache/45c4cd89b4682ce9c1b03e8c111eeec3518f2c35/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /Users/hazardm/.android/build-cache/215ba9504e645ab7c325487c76fd04bca6b072e2/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /Users/hazardm/.android/build-cache/207d9a1b37ea446cc7fd47e767d43fdbd4d408ff/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /Users/hazardm/.android/build-cache/4784334fd3afc86e724fb92681898726a1d7722a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /Users/hazardm/.android/build-cache/96a98946a1d960cd08db69fd6483490f8190a0d4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /Users/hazardm/.android/build-cache/ae0a246546a6a940c830cbabce621fa11a8e160d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/hazardm/.android/build-cache/7705c002312b9dc14a6f32a8c31e9da2a80341df/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/hazardm/.android/build-cache/6a9fc5b9b8a27da4d2a133901a346402879030d0/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /Users/hazardm/.android/build-cache/9ce403572706b3d7e8a61aaf78f5735c566c8f19/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/hazardm/.android/build-cache/54a5ca3859ffc6533c7075b07a49b79fcd5756bb/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /Users/hazardm/.android/build-cache/fc99f726b06fc40a0c1c3249e19d6c3c8fe3669f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /Users/hazardm/.android/build-cache/0e2c854d24de8c5b000603bfc037d617e7cb2c27/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /Users/hazardm/.android/build-cache/b762e3a9854bdcc5f6c553cd3433de42300a35e0/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /Users/hazardm/.android/build-cache/0cad23a070f3b78d3739e9cc692d5890283262ca/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /Users/hazardm/.android/build-cache/09c9854702e078d4fb678f76992c04c91d53b750/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /Users/hazardm/.android/build-cache/15ba46343d7f29cee53395cf70980541834747ad/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/hazardm/.android/build-cache/16113791ea39bc454cbf964f2ec8747c035b604b/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8a42b01a65319d131b7c09c244475bd90b5b61c0/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /Users/hazardm/.android/build-cache/e0f9080a5f5843c6753d0433b8526f67aec320f4/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /Users/hazardm/.android/build-cache/00bfc0a5dbd1d6265e60a4070fe526e2d00bc12b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /Users/hazardm/.android/build-cache/e778678de8fa296ef9fc3d61a35bcc1d2054266c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:design:25.1.0] /Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/hazardm/.android/build-cache/546fba5670b21367a205e389257a73014c9a78e6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/hazardm/.android/build-cache/02aa0f3c0c865b8b4f1da318ac65af81982fa286/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.0] /Users/hazardm/.android/build-cache/396d4b47a5db8dac2be24e0c0005b6e83c967b5e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/hazardm/.android/build-cache/6493e286228850367b3ee341c560eb7493b6418d/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/hazardm/.android/build-cache/a21b8acedc8c007686bad16db8941420110eec29/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/hazardm/.android/build-cache/504cf5a2b4d85a6559f23b74b92aae3bd19ca082/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hazardm/.android/build-cache/00587cf09ec5a00d2fabec547f03240a84932a13/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] /Users/hazardm/.android/build-cache/9453dcd0baba0f6e94946fb7e2ec393035b32ef2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/hazardm/.android/build-cache/a4ff8deb682cd43ab0e4528648649d76ee0804f2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/hazardm/.android/build-cache/34b88e547d4c1b815617473074b95b3a11c94176/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/hazardm/.android/build-cache/b7c55b53a51c39e15c941b210968f48b8101dc54/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/hazardm/.android/build-cache/c38da4c5e4747f9d81697669d515c9420fab3a9b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/hazardm/.android/build-cache/429eb40d887617262bf78e072d68aa3ff521ae8e/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:25:9-41
+	android:allowBackup
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:23:9-35
+	android:icon
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:22:9-68
+service#firebase.MyFirebaseMessagingService
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:27:18-68
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:28:13-30:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:29:17-78
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:29:25-75
+service#firebase.MyFirebaseInstanceIDService
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:32:9-36:19
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:32:18-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:33:13-35:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:34:17-80
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:34:25-77
+activity#android.pkklppuad.uad4students.SplashActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:38:9-52
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:38:19-49
+activity#android.pkklppuad.uad4students.PortalAppsActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:39:9-41:48
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:41:13-45
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:40:13-47
+activity#android.pkklppuad.uad4students.dashboardactivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:42:9-50:20
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:44:13-60
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:43:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:48:27-74
+activity#android.pkklppuad.uad4students.PerwalianActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:51:9-53:41
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:53:13-38
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:52:13-46
+activity#android.pkklppuad.uad4students.JadwalDosenActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:54:9-56:44
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:56:13-41
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:55:13-48
+activity#android.pkklppuad.uad4students.DetailJadwalDosen
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:57:9-59:47
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:58:13-46
+activity#android.pkklppuad.uad4students.InfoApps
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:60:9-62:48
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:61:13-37
+activity#android.pkklppuad.uad4students.MahasiswaActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:63:9-65:41
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:65:13-38
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:64:13-46
+activity#android.pkklppuad.uad4students.DindingActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:66:9-68:39
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:68:13-36
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:67:13-44
+activity#android.pkklppuad.uad4students.CatatanPerwalianActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:69:9-71:49
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:71:13-46
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:70:13-53
+activity#perwalian.ChatActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:72:9-74:40
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:73:13-50
+activity#android.pkklppuad.uad4students.PemberitahuanTerkirim
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:75:9-77:48
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:76:13-50
+activity#android.pkklppuad.uad4students.DetailDinding
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:78:9-80:38
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:80:13-35
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:79:13-42
+activity#android.pkklppuad.uad4students.SimeruActivity
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:81:9-83:38
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:82:13-43
+activity#android.pkklppuad.uad4students.SimeruJadwalDosen
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:84:9-86:49
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:86:13-46
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:85:13-46
+activity#android.pkklppuad.uad4students.SimeruJadwalProgramStudi
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:87:9-90:59
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:89:13-53
+	android:theme
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:90:13-56
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:88:13-53
+activity#android.pkklppuad.uad4students.SimeruJadwalRuang
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:91:9-93:49
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:93:13-46
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:92:13-46
+activity#android.pkklppuad.uad4students.NotifKuliah
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:94:9-96:43
+	android:label
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:96:13-40
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:95:13-40
+activity#android.pkklppuad.uad4students.Detailjadwaldose
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:97:9-54
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:97:19-51
+activity#android.pkklppuad.uad4students.Dindinginformasi
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:98:9-54
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:98:19-51
+activity#android.pkklppuad.uad4students.Tampilprogramstudi
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:99:9-56
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:99:19-53
+activity#android.pkklppuad.uad4students.Tampildetailinformasi
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:100:9-59
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:100:19-56
+activity#android.pkklppuad.uad4students.Detail_dinding_informasi
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:101:9-62
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:101:19-59
+activity#android.pkklppuad.uad4students.TampilJadwalRuang
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:102:9-104:59
+	android:theme
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:104:13-56
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:103:13-46
+activity#android.pkklppuad.uad4students.transkrip
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:105:9-47
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:105:19-44
+activity#perwalian.Catatan_Perwalian
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:106:9-64
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:106:19-61
+activity#perwalian.CommentTopik
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:107:9-59
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:107:19-56
+activity#android.pkklppuad.uad4students.Gallery
+ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:108:9-110:20
+	android:name
+		ADDED from /Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/AndroidManifest.xml:108:19-42
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/hazardm/.android/build-cache/754617d0b442f5824919c6133a5e1180504edc62/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /Users/hazardm/.android/build-cache/33d3d86d88ef7fce522a51ae0da324b10388334b/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /Users/hazardm/.android/build-cache/c34df6ed35de0bfd615a8ee58277a996ad067a08/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/hazardm/.android/build-cache/207d9a1b37ea446cc7fd47e767d43fdbd4d408ff/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/hazardm/.android/build-cache/207d9a1b37ea446cc7fd47e767d43fdbd4d408ff/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /Users/hazardm/.android/build-cache/207d9a1b37ea446cc7fd47e767d43fdbd4d408ff/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/hazardm/.android/build-cache/6a9fc5b9b8a27da4d2a133901a346402879030d0/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /Users/hazardm/.android/build-cache/54a5ca3859ffc6533c7075b07a49b79fcd5756bb/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /Users/hazardm/.android/build-cache/6a9fc5b9b8a27da4d2a133901a346402879030d0/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /Users/hazardm/.android/build-cache/f8e05e5e58d363188d2dfe2c9eb0f419254ac12b/output/AndroidManifest.xml:30:27-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/hazardm/.android/build-cache/08d1372d557c9fbddcf850cbdbbe95c4dde0bbd1/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/hazardm/.android/build-cache/8d5018476405d7ad8074c3495538c72ac6991d1f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/hazardm/.android/build-cache/1f92c9d5d93509beb2470ed5e93e525eb9fe26c5/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/hazardm/.android/build-cache/5c9619f13c4411b53265a7f129ffcd2d1a236e53/output/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/hazardm/.android/build-cache/3e7f046ea1733e5b653bfcd63d770db2a6f50871/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hazardm/.android/build-cache/00587cf09ec5a00d2fabec547f03240a84932a13/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hazardm/.android/build-cache/00587cf09ec5a00d2fabec547f03240a84932a13/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/hazardm/.android/build-cache/00587cf09ec5a00d2fabec547f03240a84932a13/output/AndroidManifest.xml:20:20-65

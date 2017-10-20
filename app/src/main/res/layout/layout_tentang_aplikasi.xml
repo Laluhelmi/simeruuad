@@ -1,0 +1,74 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollTentangapp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="false">
+    
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayoutTentangapp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="bottom"
+        android:shrinkColumns="*"
+        android:stretchColumns="*" >
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/img_app"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
+                android:src="@drawable/coba" />
+
+        </TableRow>
+
+       <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" 
+            android:textAlignment="center">
+
+            <TextView
+                android:id="@+id/txt_deskripsi"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="18dp"
+                android:layout_span="6"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="UAD Apps 4 Lecturer | Versi 1.0"
+                android:textColor="#000"
+                android:textSize="12dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center" >
+
+            <TextView
+                android:id="@+id/txt_keterangan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="18dp"
+                android:layout_span="6"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="Fakultas Teknologi Industri | UAD 4 Lecturer Apps"
+                android:textColor="@color/color_"
+                android:textSize="12dp" />
+
+        </TableRow>
+    </TableLayout>
+
+</ScrollView>

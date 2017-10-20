@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/hazardm/.android/build-cache/0cad23a070f3b78d3739e9cc692d5890283262ca/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

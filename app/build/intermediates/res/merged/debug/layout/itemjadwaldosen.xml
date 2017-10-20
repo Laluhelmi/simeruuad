@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:padding="5dp"
+    android:text="Hari"
+    android:id="@+id/hari"
+    android:background="#c4c4c4"
+    />
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_below="@+id/hari"
+       android:orientation="horizontal"
+       android:weightSum="2"
+       android:layout_height="wrap_content">
+       <LinearLayout
+           android:layout_weight="1"
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+           <TextView
+               android:text="Matakuliah"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Kelas"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Ruang"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Jam"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+       </LinearLayout>
+       <LinearLayout
+           android:layout_weight="1"
+           android:orientation="vertical"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+           <TextView
+               android:text="Matakuliah"
+               android:id="@+id/matakuliah"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Kelas"
+               android:id="@+id/kelas"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Ruang"
+               android:id="@+id/ruang"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+           <TextView
+               android:text="Jam"
+               android:id="@+id/jam"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" />
+       </LinearLayout>
+
+   </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".dashboardactivity">
+	<TableLayout
+        android:id="@+id/tableLayoutTentangapp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:shrinkColumns="*"
+        android:stretchColumns="*" >
+
+		<TableRow
+		    android:id="@+id/tableRow1"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:gravity="center" >
+
+		    <ImageView
+		        android:id="@+id/img_perwalian"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"
+		        android:padding="20dp"
+		        android:src="@drawable/btn_perwalian" />
+
+		    <ImageView
+		        android:id="@+id/img_simeru"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:padding="20dp"
+		        android:src="@drawable/btn_simeru" />
+		</TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center" >
+
+            <TextView
+                android:id="@+id/tperwalian"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+        		android:gravity="center"
+                android:padding="10dp"
+                android:text="Perwalian"
+                android:textAlignment="center"
+                android:textColor="@color/color_" />
+
+            <TextView
+                android:id="@+id/tjadwal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+        		android:gravity="center"
+                android:padding="10dp"
+                android:text="SIMERU UAD"
+                android:textColor="@color/color_" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+       		android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/img_tentang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:src="@drawable/btn_about" />
+
+            <ImageView
+                android:id="@+id/img_keluar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:src="@drawable/btn_keluar" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+        	android:gravity="center" >
+
+            <TextView
+                android:id="@+id/ttentang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+        		android:gravity="center"
+                android:padding="10dp"
+                android:text="Tentang Aplikasi"
+                android:textColor="@color/color_" />
+
+            <TextView
+                android:id="@+id/tkeluar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+        		android:gravity="center"
+                android:padding="10dp"
+                android:text="Keluar"
+                android:textColor="@color/color_" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center" >
+
+            <TextView
+                android:id="@+id/txt_keterangan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="18dp"
+                android:layout_span="6"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="Fakultas Teknologi Industri | UAD - 2015 "
+                android:textColor="#000"
+                android:textSize="12dp" />
+
+        </TableRow>
+    </TableLayout>
+
+
+</RelativeLayout>

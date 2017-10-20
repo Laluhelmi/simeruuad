@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/btn_cab_done_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/btn_cab_done_uad_package.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/hazardm/.android/build-cache/5c13a76280a89f26a33e8c9ca8322caef68a1c66/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/spinner_background_ab_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/spinner_background_ab_uad_package.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/progress_horizontal_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/progress_horizontal_uad_package.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/kotak_komment.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/kotak_komment.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/shadow.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/shadow.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/selectable_background_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/selectable_background_uad_package.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/tab_indicator_ab_uad_package.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/borderspin.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/borderspin.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/hazardm/.android/build-cache/0b8565b53519582d3ae7fdc15683cd0ecde2d8ca/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/hazardm/.android/build-cache/6fb275f93912ac8ec27bc817e24d0d9e094a7037/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/Users/hazardm/.android/build-cache/beb69b17e5c00b4b1bd223800f2b7546873eae2d/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/hazardm/.android/build-cache/06de029e8fe5ad6178a6ae6a084db0613839f452/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/hazardm/.android/build-cache/d2a9143f09ff70948e9abbbfe1ca15fcca148097/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/build/intermediates/res/merged/debug/drawable/ab_background_textured_uad_package.xml",
+        "source": "/Users/hazardm/AndroidStudioProjects/cobalagi/app/src/main/res/drawable/ab_background_textured_uad_package.xml"
+    }
+]

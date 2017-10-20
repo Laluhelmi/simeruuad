@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+                android:id="@+id/txt_keterangan"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+        android:layout_span="6"
+                android:gravity="center"
+                android:padding="15dp"
+                android:text="Fakultas Teknologi Industri | UAD - 2015 "
+                android:textColor="#000"
+                android:textSize="12dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ListView
+        android:padding="5dp"
+        android:dividerHeight="3dp"
+        android:id="@+id/list_jadwal_dosen"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/txt_keterangan"
+        android:layout_below="@+id/searchlayout">
+    </ListView>
+
+</RelativeLayout>
+

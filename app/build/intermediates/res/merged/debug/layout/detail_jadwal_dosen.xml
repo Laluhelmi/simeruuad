@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="android.pkklppuad.uad4students.Detailjadwaldose">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical">
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/tableLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:shrinkColumns="*"
+            android:gravity="bottom"
+            android:layout_marginBottom="5dp"
+            android:stretchColumns="*">
+
+            <TableRow
+                android:layout_height="wrap_content"
+                android:id="@+id/tableRow2"
+                android:layout_width="match_parent">
+                <TextView
+                    android:text="Hari"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:layout_span="3" />
+                <TextView
+                    android:text="Mata kuliah"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:layout_span="5" />
+
+                <TextView
+                    android:text="Ruang"
+                    android:textStyle="bold"
+                    android:textSize="12sp"
+                    android:layout_span="2" />
+
+                <TextView
+                    android:layout_span="1"
+                    android:text="Kelas"
+                    android:textStyle="bold"
+
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:text="jam"
+                    android:textStyle="bold"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:layout_span="1" />
+
+            </TableRow>
+
+        </TableLayout>
+        <ListView
+            android:id="@+id/list_detail_dosen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/txt_keterangan"
+            android:layout_below="@+id/searchlayout">
+        </ListView>
+    </LinearLayout>
+</LinearLayout>

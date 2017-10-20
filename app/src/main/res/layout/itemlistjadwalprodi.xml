@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+        <TableRow
+            android:layout_height="wrap_content"
+            android:id="@+id/tableRow3"
+            android:layout_width="match_parent">
+            <TextView
+                android:id="@+id/namadosen"
+                android:textSize="12sp"
+                android:layout_span="4" />
+            <TextView
+                android:id="@+id/namamatakuliah"
+                android:textSize="12sp"
+                android:layout_span="4" />
+
+            <TextView
+                android:id="@+id/namaruang"
+                android:textSize="12sp"
+                android:layout_span="3" />
+
+            <TextView
+                android:layout_span="1"
+                android:id="@+id/namakelas"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/namajam"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:layout_span="1" />
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

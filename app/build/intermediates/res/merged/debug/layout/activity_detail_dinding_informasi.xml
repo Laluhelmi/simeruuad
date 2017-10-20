@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="android.pkklppuad.uad4students.Detail_dinding_informasi">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dosen"
+        android:textSize="20dp"
+        android:id="@+id/namadosen"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="jam"
+        android:textSize="17dp"
+        android:layout_below="@id/namadosen"
+        android:id="@+id/jam"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kelas"
+        android:id="@+id/kelas"
+        android:textSize="17dp"
+        android:layout_marginLeft="50px"
+        android:layout_below="@+id/namadosen"
+        android:layout_toRightOf="@id/jam"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/kelas"
+        android:id="@+id/detailinformasi"
+        android:text="Detail Informasi"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>
